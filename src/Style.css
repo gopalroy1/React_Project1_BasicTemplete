@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100vw;
+    margin: auto;
+    background-color: navy;
+    color: white;
+    text-align: center;
+}
+.header a {
+    color: lightblue;
+    /* text-decoration: none; */
+    margin-right: 12px;
+}
+.header div{
+    margin-top: 5px;
+}
+
+
+.aboutme h2{
+    text-align: center;
+}
+.aboutme img{
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.details h2{
+    text-align: center;
+}
