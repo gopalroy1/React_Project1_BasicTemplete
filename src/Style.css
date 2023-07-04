@@ -30,3 +30,26 @@
 .details h2{
     text-align: center;
 }
+/*  */
+.MovieApp13June{
+    display: flex;
+}
+
+.movie-container{
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    border: 2px solid red;
+    width: 80%;
+}
+.movie-item{
+    border: 2px solid yellow;
+}
+.movie-item img{
+    width: 300px;
+}
+.details{
+    border: 2px solid green;
+    padding: 100px 10px;
+    overflow: hidden;
+}
